@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-20T12:41:50.821Z</updated>
+    <updated>2020-04-23T03:15:06.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
     <logo>https://ahehe2505.github.io/blog/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[历史上的今天]]></title>
+        <id>https://ahehe2505.github.io/blog/post/li-shi-shang-de-jin-tian/</id>
+        <link href="https://ahehe2505.github.io/blog/post/li-shi-shang-de-jin-tian/">
+        </link>
+        <updated>2020-04-22T04:46:19.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="https://www.tooleyes.com/embed/history_event_today.html" width="100%" height="450px;" scrolling="no" style="border:0px;"></iframe>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日语学习]]></title>
+        <id>https://ahehe2505.github.io/blog/post/ri-yu-xue-xi/</id>
+        <link href="https://ahehe2505.github.io/blog/post/ri-yu-xue-xi/">
+        </link>
+        <updated>2020-04-22T04:36:42.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="https://www.tooleyes.com/embed/japanese_syllabary_learning.html" width="100%" height="450px;" scrolling="no" style="border:0px;"></iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中考语文]]></title>
         <id>https://ahehe2505.github.io/blog/post/zhong-kao-yu-wen/</id>
