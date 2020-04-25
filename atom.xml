@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-25T13:45:36.162Z</updated>
+    <updated>2020-04-25T14:09:55.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
     <logo>https://ahehe2505.github.io/blog/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[ahehe的初中语文知识点总结]]></title>
+        <id>https://ahehe2505.github.io/blog/post/ahehe-de-chu-zhong-yu-wen-zhi-shi-dian-zong-jie/</id>
+        <link href="https://ahehe2505.github.io/blog/post/ahehe-de-chu-zhong-yu-wen-zhi-shi-dian-zong-jie/">
+        </link>
+        <updated>2020-04-25T13:58:41.000Z</updated>
+        <summary type="html"><![CDATA[<center>已更新1/1，已完结</center>
+]]></summary>
+        <content type="html"><![CDATA[<center>已更新1/1，已完结</center>
+<!-- more -->
+<p><a href="https://ahehe.lanzous.com/ibxhpef">有水印版</a><br>
+<a href="http://ahehe2505.gitee.io/a123/">无水印版</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初中生物思维导图]]></title>
         <id>https://ahehe2505.github.io/blog/post/chu-zhong-sheng-wu-si-wei-dao-tu/</id>
