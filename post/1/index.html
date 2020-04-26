@@ -1,98 +1,89 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
 <title>广东省各市各年级开学通知汇总（陆续更新） | ahehe的blog</title>
+<meta name="description" content="">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://ahehe2505.github.io/blog//favicon.ico?v=1587875025970">
+<link rel="shortcut icon" href="https://ahehe2505.github.io/blog//favicon.ico?v=1587875060358">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://ahehe2505.github.io/blog//styles/main.css">
 
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
-    <meta name="description" content="
-&nbsp;&nbsp;经广东省新冠肺炎疫情防控指挥部研究决定，全省高三和初三毕业班于4月27日返校。5月11日以后，根据疫情防控情况，分期、分批、错峰安排中小学其他年级学生返校。幼儿园和特殊教育学校学生返园返校时间另行研究确定。珠海、潮..." />
-    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://ahehe2505.github.io/blog/">
-        <img src="https://ahehe2505.github.io/blog//images/avatar.png?v=1587875025970" class="site-logo">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://ahehe2505.github.io/blog/">
+        <img class="avatar" src="https://ahehe2505.github.io/blog//images/avatar.png?v=1587875060358" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://ahehe2505.github.io/blog/">
         <h1 class="site-title">ahehe的blog</h1>
       </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
     </div>
-    <div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
         
-          <a href="https://ahehe2505.github.io/ahehe/" class="site-nav">
+          <a href="https://ahehe2505.github.io/ahehe/" class="menu purple-link">
             首页
           </a>
         
       
         
-          <a href="https://ahehe2505.github.io/blog/post/re-ping-qiang" class="site-nav">
+          <a href="https://ahehe2505.github.io/blog/post/re-ping-qiang" class="menu purple-link">
             热评墙
           </a>
         
       
         
-          <a href="https://ahehe2505.github.io/zkaoaaa/" class="site-nav">
+          <a href="https://ahehe2505.github.io/zkaoaaa/" class="menu purple-link">
             广东中考倒计时
           </a>
         
       
     </div>
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      
-    </div>
-    <div class="site-footer">
-      <script type="text/javascript" src="//js.users.51.la/20761741.js"></script> | <a class="rss" href="https://ahehe2505.github.io/blog//atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
+</transition>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <div class="post-detail">
-            <h2 class="post-title">广东省各市各年级开学通知汇总（陆续更新）</h2>
-            <div class="post-date">2020-04-24</div>
+      <div class="content-container">
+        <div class="post-detail">
+          
+            <div class="feature-container" style="background-image: url('https://ahehe2505.github.io/blog//post-images/1.png')">
+            </div>
+          
+          <h2 class="post-title">广东省各市各年级开学通知汇总（陆续更新）</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-04-24</span>
             
-              <div class="feature-container" style="background-image: url('https://ahehe2505.github.io/blog//post-images/1.png')">
-              </div>
-            
-            <div class="post-content" v-pre>
-              <center>
+          </div>
+          <div class="post-content">
+            <center>
 <font size=3>&nbsp;&nbsp;经广东省新冠肺炎疫情防控指挥部研究决定，全省高三和初三毕业班于4月27日返校。5月11日以后，根据疫情防控情况，分期、分批、错峰安排中小学其他年级学生返校。幼儿园和特殊教育学校学生返园返校时间另行研究确定。珠海、潮州、江门、阳江也公布了各年级返校时间。</font>
 <section style="width: 100%;border-bottom: 5px solid rgb(169, 211, 214);box-sizing: border-box;max-width: 100%;"><section style="display: inline-block;vertical-align: bottom;margin-bottom: -5px;border-bottom: 5px solid rgb(1, 135, 207);font-size: 19.2px;padding: 5px;line-height: 1em;box-sizing: border-box;max-width: 100%;"><section style="box-sizing: border-box;max-width: 100%;color: rgb(0, 0, 0);"><span style="font-size: 20px;"><strong>珠海</strong></span></section></section></section>
 <br></center>
@@ -160,31 +151,45 @@
 孩子们可以安心上课啦！<br></p>
 </center>
 <section style="margin: 0px 10px;display:flex;justify-content: center;align-items: center;"><section style="width:55px;flex-shrink: 0;"><img class="" data-ratio="0.6363636363636364" data-src="https://static.xmt.cn/img/c1b5d5881c66443887db3fa67ad7baf3.png" data-type="png" data-w="55" style="max-width: 100%; vertical-align: middle; width: 55px !important; height: auto !important; visibility: visible !important;" _width="55px" src="https://static.xmt.cn/img/c9d74a239707494b99dfe3e40a79af1c.png" crossorigin="anonymous" data-fail="0"></section><section style="margin: 0px 5px;"><p style="margin: 0;font-size: 15px;color:#f49039;text-align: center;">- THE END -</p></section></section>
-            </div>
-            
-            
-              <div class="next-post">
-                <div class="next">下一篇</div>
-                <a href="https://ahehe2505.github.io/blog/post/li-shi-shang-de-jin-tian/">
-                  <h3 class="post-title">
-                    历史上的今天
-                  </h3>
-                </a>
-              </div>
-            
-
-            
-
           </div>
-
         </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://ahehe2505.github.io/blog/post/li-shi-shang-de-jin-tian/">
+              <h3 class="post-title">
+                下一篇：历史上的今天
+              </h3>
+            </a>
+          </div>
+          
       </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan"></div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  <script type="text/javascript" src="//js.users.51.la/20761741.js"></script> | <a class="rss" href="https://ahehe2505.github.io/blog//atom.xml" target="_blank">RSS</a>
+</div>
+
+
     </div>
+    <script type="application/javascript">
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
+hljs.initHighlightingOnLoad()
 
 var app = new Vue({
   el: '#app',
@@ -194,8 +199,6 @@ var app = new Vue({
 })
 
 </script>
-
-
 
 
 

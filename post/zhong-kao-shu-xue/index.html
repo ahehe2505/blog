@@ -1,105 +1,86 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
 <title>中考数学 | ahehe的blog</title>
+<meta name="description" content="">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://ahehe2505.github.io/blog//favicon.ico?v=1587875025970">
+<link rel="shortcut icon" href="https://ahehe2505.github.io/blog//favicon.ico?v=1587875060358">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://ahehe2505.github.io/blog//styles/main.css">
 
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
-    <meta name="description" content="已更新10/10 已完结
-
-第一章　数与式
-第二章  方程与不等式
-第三章   函　数
-第四章   三角形
-第五章  四边形
-第六章  圆
-第七章  尺规作图及图形变换
-第八章  统计与概率
-重点拓展 三大求阴影部分面积方法
-重点拓展 四大..." />
-    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://ahehe2505.github.io/blog/">
-        <img src="https://ahehe2505.github.io/blog//images/avatar.png?v=1587875025970" class="site-logo">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://ahehe2505.github.io/blog/">
+        <img class="avatar" src="https://ahehe2505.github.io/blog//images/avatar.png?v=1587875060358" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://ahehe2505.github.io/blog/">
         <h1 class="site-title">ahehe的blog</h1>
       </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
     </div>
-    <div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
         
-          <a href="https://ahehe2505.github.io/ahehe/" class="site-nav">
+          <a href="https://ahehe2505.github.io/ahehe/" class="menu purple-link">
             首页
           </a>
         
       
         
-          <a href="https://ahehe2505.github.io/blog/post/re-ping-qiang" class="site-nav">
+          <a href="https://ahehe2505.github.io/blog/post/re-ping-qiang" class="menu purple-link">
             热评墙
           </a>
         
       
         
-          <a href="https://ahehe2505.github.io/zkaoaaa/" class="site-nav">
+          <a href="https://ahehe2505.github.io/zkaoaaa/" class="menu purple-link">
             广东中考倒计时
           </a>
         
       
     </div>
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      
-    </div>
-    <div class="site-footer">
-      <script type="text/javascript" src="//js.users.51.la/20761741.js"></script> | <a class="rss" href="https://ahehe2505.github.io/blog//atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
+</transition>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <div class="post-detail">
-            <h2 class="post-title">中考数学</h2>
-            <div class="post-date">2020-04-19</div>
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">中考数学</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-04-19</span>
             
-            <div class="post-content" v-pre>
-              <center>已更新10/10 已完结</center>
+          </div>
+          <div class="post-content">
+            <center>已更新10/10 已完结</center>
 <!-- more -->
 <h1 id="第一章-数与式">第一章　数与式</h1>
 <h1 id="第二章-方程与不等式">第二章  方程与不等式</h1>
@@ -128,22 +109,37 @@
 本站全部内容采用撰写共用版权协议，要求署名、非商业用途和相同方式共享，如转载请也遵循撰写共用协议。根据署名-非商业性使用-相同方式共享许可协议规定，只要他人在以原作品为基础创作的新作品上适用同一类型的许可协议，并且在新作品发布的显著位置，注明原作者的姓名、来源及其采用的知识共享协议，与该作品在本网站的原发地址建立链接，他人就可基于非商业目的对原作品重新编排、修改、节选或者本人的作品为基础进行创作和发布。基于原作品创作的所有新作品都要适用同一类型的许可协议，因此适用该项协议， 对任何以他人原作为基础创作的作品自然同样都不得商业性用途。<br>
 提供的所有软件版权归原公司所有，仅供日常使用，不得用于任何商业用途，下载后请24小时内删除，因下载本站资源造成的损失，全部由使用者本人承担！如果您发现本站侵害了相关版权，请联系站长并出示版权证明。</p>
 
-            </div>
-            
-            
-
-            
-
           </div>
-
         </div>
+
+        
       </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan"></div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  <script type="text/javascript" src="//js.users.51.la/20761741.js"></script> | <a class="rss" href="https://ahehe2505.github.io/blog//atom.xml" target="_blank">RSS</a>
+</div>
+
+
     </div>
+    <script type="application/javascript">
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
+hljs.initHighlightingOnLoad()
 
 var app = new Vue({
   el: '#app',
@@ -153,8 +149,6 @@ var app = new Vue({
 })
 
 </script>
-
-
 
 
 
