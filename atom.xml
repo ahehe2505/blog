@@ -2,13 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-26T14:17:57.634Z</updated>
+    <updated>2020-04-27T04:13:19.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
     <logo>https://ahehe2505.github.io/blog/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于ahehe的blog客户端使用教程]]></title>
+        <id>https://ahehe2505.github.io/blog/post/guan-yu-ahehe-de-blog-ke-hu-duan-shi-yong-jiao-cheng/</id>
+        <link href="https://ahehe2505.github.io/blog/post/guan-yu-ahehe-de-blog-ke-hu-duan-shi-yong-jiao-cheng/">
+        </link>
+        <updated>2020-04-27T01:53:29.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="网页版">网页版：</h1>
+<p>https://ahehe2505.github.io/blog/</p>
+<h1 id="安卓客户端">安卓客户端：</h1>
+<p>蓝奏云下载 https://ahehe.lanzous.com/ibzc76b<br>
+本地下载：https://raw.githubusercontent.com/ahehe2505/ahehe.github.io/master/ahehe%E7%9A%84blog.apk，复制到迅雷，idm等下载软件</p>
+<h1 id="苹果客户端">苹果客户端</h1>
+<p>因为成本受限，所以就不能安装，但是可以将网页变成应用，需要的可以看一下<br>
+<img src="https://s1.ax1x.com/2020/04/27/JRT3zn.png" alt="JRT3zn.png" loading="lazy"><br>
+<img src="https://s1.ax1x.com/2020/04/27/JRT1Rs.png" alt="JRT1Rs.png" loading="lazy"><br>
+<img src="https://s1.ax1x.com/2020/04/27/JRTlGj.png" alt="JRTlGj.png" loading="lazy"><br>
+<img src="https://s1.ax1x.com/2020/04/27/JRTGMq.png" alt="JRTGMq.png" loading="lazy"><br>
+然后桌面就有一个应用啦</p>
+<h1 id="window客户端">window客户端</h1>
+<p>支持系统：winxp以上，不包括winxp</p>
+<h2 id="怎么样区分电脑是什么系统">怎么样区分电脑是什么系统</h2>
+<p>百度啦，看一下你的电脑是什么系统</p>
+<h2 id="怎么样区分64位还是32位">怎么样区分64位还是32位</h2>
+<p>百度啦，看一下你的电脑是什么系统<br>
+64位蓝奏云绿色免安装下载：https://ahehe.lanzous.com/ibzfy2h<br>
+下载完成后解压到顺eye的地方-打开名字叫做：aheheblog.exe的软件-ok啦<br>
+注意，不要删除里面的任意一个文件，否则都会打不开<br>
+64位蓝奏云安装包（推荐）https://ahehe.lanzous.com/ibzezwh<br>
+这个简单，随便吧<br>
+32位蓝奏云绿色免安装下载：https://ahehe.lanzous.com/ibzfy8d<br>
+下载完成后解压到顺eye的地方-打开名字叫做：mini-electron.exe的软件-ok啦<br>
+32位蓝奏云安装包（推荐）https://ahehe.lanzous.com/ibzf4oj<br>
+这个简单，随便吧</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生地会考复习]]></title>
         <id>https://ahehe2505.github.io/blog/post/sheng-di-hui-kao-fu-xi/</id>
