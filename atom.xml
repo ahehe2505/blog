@@ -2,25 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-29T13:43:03.579Z</updated>
+    <updated>2020-04-29T13:58:26.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
     <logo>https://ahehe2505.github.io/blog/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
-    <entry>
-        <title type="html"><![CDATA[12]]></title>
-        <id>https://ahehe2505.github.io/blog/post/12/</id>
-        <link href="https://ahehe2505.github.io/blog/post/12/">
-        </link>
-        <updated>2020-04-29T13:11:46.000Z</updated>
-        <content type="html"><![CDATA[<video  width="640" height="360"  controlslist="nodownload"  x5-playsinline="true" playsinline="true"  controls controlslist>
-<source id="vsource" src="https://v.tigu.cn/L/9/C/9C2B168ACB14C452.mp4" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
-你的浏览器不支持video标签，请使用Chrome浏览器、360浏览器或者Safari浏览器。
-</video>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关于ahehe的blog客户端使用教程]]></title>
         <id>https://ahehe2505.github.io/blog/post/guan-yu-ahehe-de-blog-ke-hu-duan-shi-yong-jiao-cheng/</id>
