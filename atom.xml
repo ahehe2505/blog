@@ -2,13 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-29T22:55:23.070Z</updated>
+    <updated>2020-04-29T23:27:22.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
     <logo>https://ahehe2505.github.io/blog/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[123]]></title>
+        <id>https://ahehe2505.github.io/blog/post/123/</id>
+        <link href="https://ahehe2505.github.io/blog/post/123/">
+        </link>
+        <updated>2020-04-29T23:22:27.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="第一题">第一题</h1>
+<h2 id="原题">原题</h2>
+<div class="pt1">（<num>2012</num>泰安）小明和小亮在操场上玩耍时发现水平抛出的几个物体落地时间有差异，善于观察的他们想水平抛出的物体的这个“落地时间”与什么因素有关呢？思考讨论后他们提出了如下猜想：<br>猜想一：与抛出物体的质量有关；<br>猜想二：与水平抛出的速度有关；<br>猜想三：与水平抛出点的离地高度有关．为了验证以上猜想，他们从探究实验室借来能控制发射速度的弹射器、两个质量不同的小钢球、刻度尺、电子停表等实验器材，依照物理学习中的科学方法，在老师的帮助下按照如图所示的方法进行了实验探究，得到如下表所示的实验数据．<br><img src="http://image.tigu.cn/pic/cpic/2/2000/20005087-1.png" height="200" width="179" class="list_image"><table class="edittable"><tbody><tr><td width="46px">实验序号  </td><td width="85px">钢球质量<em>m</em>/<em>kg  </em></td><td width="93px">抛出点离地高度<em>h</em>/<em>m  </em></td><td width="93px">水平抛出的速度<em>v</em>/（<em>m</em>/<em>s</em>）  </td><td width="89px">落地时间<em>t</em>/<em>s  </em></td><td width="117px">落地点与抛出点的水平距离<em>x</em>/<em>m  </em></td></tr><tr><td width="46px"><num>1  </num></td><td width="85px"><num>10  </num></td><td width="93px"><num>2  </num></td><td width="93px"><num>1  </num></td><td width="89px"><num>0.64  </num></td><td width="117px"><num>0.64  </num></td></tr><tr><td width="46px"><num>2  </num></td><td width="85px"><num>20  </num></td><td width="93px"><num>2  </num></td><td width="93px"><num>1  </num></td><td width="89px"><num>0.64  </num></td><td width="117px"><num>0.64  </num></td></tr><tr><td width="46px"><num>3  </num></td><td width="85px"><num>10  </num></td><td width="93px"><num>2  </num></td><td width="93px"><num>2  </num></td><td width="89px"><num>0.64  </num></td><td width="117px"><num>1.28  </num></td></tr><tr><td width="46px"><num>4  </num></td><td width="85px"><num>10  </num></td><td width="93px"><num>4  </num></td><td width="93px"><num>2  </num></td><td width="89px"><num>0.91  </num></td><td width="117px"><num>1.82  </num></td></tr></tbody></table>请你通过分析回答以下问题：<br>（<num>1</num>）为了验证猜想一，应选用实验序号为________的两组数据进行对比分析．<br>（<num>2</num>）为了验证猜想二，应选用实验序号为________的两组数据进行对比分析．<br>（<num>3</num>）为了验证猜想三，应选用实验序号为________的两组数据进行对比分析．<br>（<num>4</num>）可以得出实验结论：水平抛出的钢球的落地时间与________有关，与________无关．同时还可得出“落地点与抛出点的水平距离与________和________有关”的实验结论．</div>
+<h2 id="思路">思路</h2>
+<p>1）要验证猜想一：与抛出物体的质量有关，应控制水平抛出速度与抛出点离地的高度相同，据此找出满足要求的实验序号；<br>
+2）为了验证猜想二：与水平抛出的速度有关，要控制抛出钢球的质量与抛出点离地的高度相同，据此找出满足要求的实验序号；<br>
+3）为了验证猜想三：与水平抛出点的离地高度有关，要控制抛出钢球的质量与抛出钢球的速度相同，据此找出满足要求的实验序号；<br>
+4）分析表中数据找出影响钢球运动时间的因素、影响钢球水平运动距离的因素．</p>
+<h2 id="解析">解析</h2>
+<p>1）由表中数据知1、2两组实验数据的水平抛出速度与抛出点离地的高度相同，用1、2两组数据可以验证猜想一；<br>
+2）由表中数据可知1、3两组实验数据钢球的质量与抛出点离地的高度相同，用1、3两组数据可以验证猜想二；<br>
+3）由表中数据可知3、4两组数据抛出钢球的质量与抛出钢球的速度相同，利用3、4两组数据可以验证猜想三；<br>
+4）由表中1、4（或2、4，或3、4）两组实验数据可知：水平抛出的钢球落地时间与抛出点的高度有关；<br>
+由1、2两组数据知：水平抛出的钢球落地时间与抛出钢球的质量无关；<br>
+由2、3两组数据知：水平抛出的钢球落地时间与抛出钢球的水平抛出速度无关；<br>
+由1、3、4（或2、3、4）三组实验数据可知：落地点与抛出点的水平距离与水平抛出的速度和抛出点离地高度有关；<br>
+<video  width="640" height="360"  controlslist="nodownload"  x5-playsinline="true" playsinline="true"  controls controlslist></p>
+<source id="vsource" src="https://v.tigu.cn/S/1/5/1517224A691F1084.mp4" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
+你的浏览器不支持video标签，请使用Chrome浏览器、360浏览器或者Safari浏览器。
+</video>
+<h2 id="答案">答案</h2>
+<p>（1）1、2；（2）1、3；（3）3、4；（4）抛出点高度；抛出钢球的质量；水平抛出的速度；水平抛出的速度；抛出点离地高度．</p>
+<h2 id="总结">总结</h2>
+<p>本题是一道实验探究题，认真分析表中数据、会应用控制变量法是正确解题的关键．</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于ahehe的blog客户端使用教程]]></title>
         <id>https://ahehe2505.github.io/blog/post/guan-yu-ahehe-de-blog-ke-hu-duan-shi-yong-jiao-cheng/</id>
