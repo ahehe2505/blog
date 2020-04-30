@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-30T06:53:10.977Z</updated>
+    <updated>2020-04-30T06:54:57.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
@@ -10,7 +10,7 @@
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
     <entry>
-        <title type="html"><![CDATA[123]]></title>
+        <title type="html"><![CDATA[每周一题物理]]></title>
         <id>https://ahehe2505.github.io/blog/post/123/</id>
         <link href="https://ahehe2505.github.io/blog/post/123/">
         </link>
