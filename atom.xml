@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-05-17T02:52:44.392Z</updated>
+    <updated>2020-05-24T06:17:45.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
@@ -32,7 +32,16 @@
         </link>
         <updated>2020-04-29T23:22:27.000Z</updated>
         <content type="html"><![CDATA[<p>请前往客户端查看</p>
-]]></content>
+<div class="index_N_2Dk38">实验推理法<div class="index_videoTime_2HmW1">时长：6分钟</div></div>
+<video  width="640" height="360"  controlslist="nodownload"  x5-playsinline="true" playsinline="true"  controls controlslist>
+<source id="vsource" src="http://private.media.yangcong345.com/mobileM/mobileM_5e257f7a5a651e77455cfadc.mp4?e=1589686646&token=Ap-_6XBBOas4n-w-osaYig82pVft-v63Rdu_2lPV:tidYDSlIElF1ojRnBqVFC-fA-Zw=" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
+你的浏览器不支持video标签，请使用Chrome浏览器、360浏览器或者Safari浏览器。
+</video>
+<div class="index_N_2Dk38">实验-阻力对物体运动的影响(上)<div class="index_videoTime_2HmW1">时长：8分钟</div></div>
+<video  width="640" height="360"  controlslist="nodownload"  x5-playsinline="true" playsinline="true"  controls controlslist>
+<source id="vsource" src="http://private.media.yangcong345.com/mobileM/mobileM_5e2602d55a651e77455cfb00.mp4?e=1589687255&token=Ap-_6XBBOas4n-w-osaYig82pVft-v63Rdu_2lPV:2uOQ1nS16Pq_I67Zb08XRnuxl60=" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
+你的浏览器不支持video标签，请使用Chrome浏览器、360浏览器或者Safari浏览器。
+</video>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于ahehe的blog客户端使用教程]]></title>
