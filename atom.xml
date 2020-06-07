@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-06-07T06:39:22.161Z</updated>
+    <updated>2020-06-07T06:43:31.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
@@ -25,7 +25,9 @@
                     <embed width="420" height="200" src="https://vodpub1.v.news.cn/original/20200521/ca304ece1745420bb12e6922814f8225.mp4">
                 </object>
             </video>
+            <br>
             转自：新华网
+            <br>
             http://www.xinhuanet.com/video/2020-05/21/c_1210628728.htm
             </center>
 <!--PC和WAP自适应版-->
