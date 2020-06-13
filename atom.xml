@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-06-07T07:34:41.242Z</updated>
+    <updated>2020-06-13T11:06:25.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
@@ -163,22 +163,6 @@ script.id = 'changyan_mobile_js';
 script.src = 'https://cy-cdn.kuaizhan.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf;
 head.appendChild(script);
 } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://cy-cdn.kuaizhan.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ahehe软件金奖]]></title>
-        <id>https://ahehe2505.github.io/blog/post/ahehe-ruan-jian-jin-jiang/</id>
-        <link href="https://ahehe2505.github.io/blog/post/ahehe-ruan-jian-jin-jiang/">
-        </link>
-        <updated>2020-05-03T11:34:46.000Z</updated>
-        <content type="html"><![CDATA[<center>
-<h1 id="001期-forest-保持专注">001期 forest 保持专注</h1>
-<p><img src="http://static.yingyonghui.com/icon/128/6640554.png" alt="forest" loading="lazy"><br>
-<a href="https://www.coolapk.com/apk/cc.forestapp">酷安下载</a><br>
-<a href="http://app.mi.com/details?id=cc.forestapp&amp;ref=search">小米应用商店下载</a><br>
-<a href="http://www.appchina.com/app/cc.forestapp">应用汇下载</a><br>
-<a href="https://apps.apple.com/cn/app/forest-%E4%B8%93%E6%B3%A8%E6%A3%AE%E6%9E%97/id866450515">APP Store</a></p>
-<center>
 ]]></content>
     </entry>
     <entry>
@@ -361,5 +345,13 @@ head.appendChild(script);
 孩子们可以安心上课啦！<br></p>
 </center>
 <section style="margin: 0px 10px;display:flex;justify-content: center;align-items: center;"><section style="width:55px;flex-shrink: 0;"><img class="" data-ratio="0.6363636363636364" data-src="https://static.xmt.cn/img/c1b5d5881c66443887db3fa67ad7baf3.png" data-type="png" data-w="55" style="max-width: 100%; vertical-align: middle; width: 55px !important; height: auto !important; visibility: visible !important;" _width="55px" src="https://static.xmt.cn/img/c9d74a239707494b99dfe3e40a79af1c.png" crossorigin="anonymous" data-fail="0"></section><section style="margin: 0px 5px;"><p style="margin: 0;font-size: 15px;color:#f49039;text-align: center;">- THE END -</p></section></section>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[历史上的今天]]></title>
+        <id>https://ahehe2505.github.io/blog/post/li-shi-shang-de-jin-tian/</id>
+        <link href="https://ahehe2505.github.io/blog/post/li-shi-shang-de-jin-tian/">
+        </link>
+        <updated>2020-04-22T04:46:19.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="https://www.tooleyes.com/embed/history_event_today.html" width="100%" height="450px;" scrolling="no" style="border:0px;"></iframe>]]></content>
     </entry>
 </feed>
