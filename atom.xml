@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-06-13T11:32:29.965Z</updated>
+    <updated>2020-06-13T12:30:56.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
@@ -16,7 +16,12 @@
         </link>
         <updated>2020-06-13T11:22:00.000Z</updated>
         <content type="html"><![CDATA[<center><img src="https://s1.ax1x.com/2020/06/13/tvoC5t.png" alt="tvoC5t.png" border="0" />
-<font size=72 face="新蒂下午茶体">ahehe的博客</font>
+<font size=72 face="等线">ahehe社区</font><br>
+<font face="Comic Sans MS" size=12>Ahehe community </font>
+<br>
+<font face="Comic Sans MS" size=12>为ahehe社区评分<br>
+同时<a href="https://www.wjx.cn/jq/81645376.aspx">为ahehe社区想个好名字</a></font>
+<script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=81645376&width=760&source=iframe'></script>
 </center>
 ]]></content>
     </entry>
