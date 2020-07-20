@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-07-05T07:19:34.666Z</updated>
+    <updated>2020-07-20T12:32:37.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
@@ -10,19 +10,12 @@
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
     <entry>
-        <title type="html"><![CDATA[为ahehe社区想个好名字]]></title>
-        <id>https://ahehe2505.github.io/blog/post/bo-ke/</id>
-        <link href="https://ahehe2505.github.io/blog/post/bo-ke/">
+        <title type="html"><![CDATA[2020地理中考答案]]></title>
+        <id>https://ahehe2505.github.io/blog/post/2020-di-li-zhong-kao-da-an/</id>
+        <link href="https://ahehe2505.github.io/blog/post/2020-di-li-zhong-kao-da-an/">
         </link>
-        <updated>2020-06-13T11:22:00.000Z</updated>
-        <content type="html"><![CDATA[<center><img src="https://s1.ax1x.com/2020/06/13/tvoC5t.png" alt="tvoC5t.png" border="0" />
-<font size=72 face="等线">ahehe社区</font><br>
-<font face="Comic Sans MS" size=12>Ahehe community </font>
-<br>
-<font face="Comic Sans MS" size=12>为ahehe社区评分<br>
-同时<a href="https://www.wjx.cn/jq/81645376.aspx">为ahehe社区想个好名字</a></font>
-<script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=81645376&width=760&source=iframe'></script>
-</center>
+        <updated>2020-07-20T12:31:14.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://s1.ax1x.com/2020/07/20/U4RLon.jpg" alt="U4RLon.jpg" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
