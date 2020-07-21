@@ -2,44 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/blog/</id>
     <title>ahehe的blog</title>
-    <updated>2020-07-21T06:04:44.209Z</updated>
+    <updated>2020-07-21T06:18:07.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/blog/"/>
     <link rel="self" href="https://ahehe2505.github.io/blog/atom.xml"/>
     <logo>https://ahehe2505.github.io/blog/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
-    <entry>
-        <title type="html"><![CDATA[2020届管理员招募]]></title>
-        <id>https://ahehe2505.github.io/blog/post/top/</id>
-        <link href="https://ahehe2505.github.io/blog/post/top/">
-        </link>
-        <updated>2020-07-21T05:57:00.000Z</updated>
-        <content type="html"><![CDATA[<p>转眼间一年已经过去了<br>
-这一年感谢大家的陪伴<br>
-现：群里将进行第二届的管理员招募<br>
-共4人，将在本周三进行招募<br>
-有意者请关注群里相关信息及博客<br>
-还是老样子，问卷选举<br>
-以下是申请条件:<br>
-(1) 积极向上，思想健康，乐于助人，热爱学习。<br>
-(2) 入群时间≥15天,每月群内在线超10天(每天最少半小时在线)，对本群有自己的看法和建议。<br>
-(3) 没有严重违反群规的记录。<br>
-(4)能够在群内保持一定的活跃， 给群营造一个好的聊天环境并按照群规认真管群 ，带好头不做违规的事情。<br>
-(5)要保证学习能够顺利进行,不耽误学习(这很重要~)<br>
-(6) 有较强的管理能力和组织能力<br>
-ps:能从各个方面考虑问题的解决方案者优先。作为管理，有一些你想不到的福利哦</p>
-<hr>
-问卷链接：https://ks.wjx.top/jq/85883285.aspx
-<br>
-<p><a href="https://ks.wjx.top/jq/85883285.aspx">或者可以点我喔</a></p>
-<hr>
-如果你用的是电脑，你可以在下面进行作答
-<script type='text/javascript' src='https://ks.wjx.top/handler/jqemed.ashx?activity=85883285&width=760&source=iframe'></script>
-or
-<iframe src='https://ks.wjx.top/jq/85883285,i,t.aspx?width=760&source=iframe' width='799' height='800' frameborder='0' style='overflow:auto'></iframe>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[历史]]></title>
         <id>https://ahehe2505.github.io/blog/post/li-shi/</id>
@@ -288,6 +257,24 @@ head.appendChild(script);
 32位蓝奏云安装包（推荐）https://ahehe.lanzous.com/ibzf4oj<br>
 这个简单，随便吧<br>
 41d5e800ff0e94dbc32ba7dd371eeccb3863e00b</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生地会考复习]]></title>
+        <id>https://ahehe2505.github.io/blog/post/sheng-di-hui-kao-fu-xi/</id>
+        <link href="https://ahehe2505.github.io/blog/post/sheng-di-hui-kao-fu-xi/">
+        </link>
+        <updated>2020-04-26T08:53:33.000Z</updated>
+        <summary type="html"><![CDATA[<center>已更新4/4，已完结</center>
+]]></summary>
+        <content type="html"><![CDATA[<center>已更新4/4，已完结</center>
+<!-- more -->
+<p><a href="https://ahehe.lanzous.com/b015ea8ba">有水印版</a>密码:3o7d<br>
+<a href="http://ahehe2505.gitee.io/a123/">无水印版</a><br>
+有水印版本仅供自己使用，不得转载与商业作用<br>
+本站所有资源来自互联网，仅供免费下载使用及学习，不得用于任何商业用途。<br>
+本站全部内容采用撰写共用版权协议，要求署名、非商业用途和相同方式共享，如转载请也遵循撰写共用协议。根据署名-非商业性使用-相同方式共享许可协议规定，只要他人在以原作品为基础创作的新作品上适用同一类型的许可协议，并且在新作品发布的显著位置，注明原作者的姓名、来源及其采用的知识共享协议，与该作品在本网站的原发地址建立链接，他人就可基于非商业目的对原作品重新编排、修改、节选或者本人的作品为基础进行创作和发布。基于原作品创作的所有新作品都要适用同一类型的许可协议，因此适用该项协议， 对任何以他人原作为基础创作的作品自然同样都不得商业性用途。<br>
+提供的所有软件版权归原公司所有，仅供日常使用，不得用于任何商业用途，下载后请24小时内删除，因下载本站资源造成的损失，全部由使用者本人承担！如果您发现本站侵害了相关版权，请联系站长并出示版权证明。</p>
 ]]></content>
     </entry>
 </feed>
